@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align='center'>Hi there 👋 <br> Dev. Mai Elhajeen here</h1>
 
+<h2 align='center'>Full-Stack Developer ![js](https://i.imgur.com/Oswt1dW.png)
+ | UXUI Design 🖌️</h2>
+
+<img src="./images/js.png" width="30" style="margin-left: 1rem;" />
 <!--
 **Mai-Elhajeen/Mai-Elhajeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
