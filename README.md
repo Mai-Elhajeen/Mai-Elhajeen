@@ -8,9 +8,9 @@
 
 <h3>✨I'm Mai Elhajeen from Gaza, Palestine🍀</h3>
 
-- 🔭 I’m currently going through Gaza Sky Geeks Career Accelerator internship.
+- 🔭 I'm got a Gaza Sky Geeks Career Accelerator internship.
 
-- 🌱 I’m currently learning React, Next.js, and Node.js.
+- 🌱 I am interested to work on React, Next.js, and Node.js.
 
 - 💪🏼 Future Goals: Learn Mobile Development, my growing knowledge does not stop at a certain limit. <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 <hr>
