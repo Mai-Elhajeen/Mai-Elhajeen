@@ -3,7 +3,9 @@
 
 <h2 align='center'>Full-Stack JavaScript Developer | UXUI Design 💻</h2>
 
-<h4 align='center'>وَنحْنُ نُحِبُّ الحَياةَ إذَا مَا استَطعنَا إِلَيْهَا سَبِيلاَ..💛</h4>
+<h4 align='center'>وَنحْنُ نُحِبُّ الحَياةَ إذَا مَا استَطعنَا إِلَيْهَا سَبِيلاَ...💛</h4>
+
+<h4 align='center'>And we love life if we can find a way to it...💛</h4>
 <hr>
 
 <h3>✨I'm Mai Elhajeen from Gaza, Palestine🍀</h3>
@@ -14,7 +16,7 @@
 
 - 🌱 Interested to work on React.js, Express.js, Node.js, and Next.js.
 
-- 🔭 Future Goals: Software Engineer, Full-Stack Developer, my growing knowledge does not stop at a certain limit. <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+- 🔭 Future Goals: Software Engineer, Full-Stack Developer, "my growing knowledge does not stop at a certain limit". <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 <hr>
 
 <h2>My Skills⭐</h2>
