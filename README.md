@@ -5,7 +5,7 @@
 
 <h4 align='center'>وَنحْنُ نُحِبُّ الحَياةَ إذَا مَا استَطعنَا إِلَيْهَا سَبِيلاَ...💛</h4>
 
-<h4 align='center'>And we love life if we can find a way to it...💛</h4>
+<h4 align='center'>And we love life if we can't find a way to it...💛</h4>
 <hr>
 
 <h3>✨I'm Mai Elhajeen from Gaza, Palestine🍀</h3>
